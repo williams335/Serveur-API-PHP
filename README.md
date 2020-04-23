@@ -1,4 +1,4 @@
-# Serveur-REST-API-PHP
+# REST-API-PHP
 
 
 API REST pour ajouter des articles
